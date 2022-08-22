@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FeedTable.tableView(_:cellForRowAt:):FeedTable.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "features">
+            </PersistentString>
+            <PersistentString
+               value = "self.parentController != nil">
+            </PersistentString>
+            <PersistentString
+               value = "(cell as? CellVideo).playerController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppCoordinator.start():AppCoordinator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddItemToShoppingList.tableView(_:numberOfRowsInSection:):AddItemToShoppingList.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedTable.tableView(_:numberOfRowsInSection:):FeedTable.swift">
+      </ContextState>
+      <ContextState
+         contextName = "APIRequest.decode(_:):APIRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "decoder.decode(Resource.ResponseType.self, from: data)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.saveFeaturesToFile(features:):FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result">
+            </PersistentString>
+            <PersistentString
+               value = "fileManager.fileExists(atPath: filePath.absoluteString)">
+            </PersistentString>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+            <PersistentString
+               value = "filePath.path">
+            </PersistentString>
+            <PersistentString
+               value = " filePath.absoluteString">
+            </PersistentString>
+            <PersistentString
+               value = "filePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in variable initialization expression of FeedViewController.filePath:FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " dir.appendingPathComponent(fileName)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.getStoredFeatures():FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileManager.fileExists(atPath: filePath.absoluteString)">
+            </PersistentString>
+            <PersistentString
+               value = "filePath.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FeedViewController.checkLastUpdatingDate():FeedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastDate.addDays(days: 1) &lt; Date()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CellVideo.bindData(feature:index:):CellVideo.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #3 in APIRequest.execute(showErrorAlert:showProgress:onSuccess:onError:):APIRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error_.localizedDescription">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CellVideo.bindVideoToView(url:):CellVideo.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

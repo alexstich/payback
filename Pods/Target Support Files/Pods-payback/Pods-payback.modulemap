@@ -1,0 +1,6 @@
+framework module Pods_payback {
+  umbrella header "Pods-payback-umbrella.h"
+
+  export *
+  module * { export * }
+}
